@@ -10,7 +10,8 @@ This project aims is to provide insight into the sale performance
 The Primary Data used on this Analyis is the "saledata"
 
 ### Tools
-- Excel - Data Cleansing  [ Dowwnloadhere](http://microsoft.com)
+- Excel - Data Cleansing
+   - [ Dowwnloadhere](http://microsoft.com)
 - SQL - Data Analysis
 - PowerBI - For Report
   
@@ -38,5 +39,45 @@ This is the stage where we present the intresting codes/ features work with
 SELECT * FROM table1
 WHERE cond = 2;
 ```
+### Result/Findings
+
+The finding results are summarized as follows
+1. The company sales has been steadily increase over the years, with a noticable peak during the holidays seasons.
+2. Product category A is the best performing category in term of sales and revenue.
+3. Customer segments with high life time value (LTV) should be targeted for marketing efforts.
+
+### Recommendation
+Based on Analysis Action we Recommend the following as follows
+1.  The company sales has tobe  steadily increase over the years, with a noticable peak during the sale period.
+2.  The company should keep investing based on catigory A for it best performance in term of its sale revenue.
+3.  Customer segments with high life time value (LTV) should be targeted for marketing efforts.
+
+### Limitations
+
+Remove the zero values frome the budget and revenue columes becacuase they would have effected the accuracy.
+
+### Reference
+
+1. SQL for Businesses by werty.
+2. [stack overflow](https://stack.com)
+
+### How to insert MOG
+
+😄
+📱
+
+### Heading
+|Heading1|Heading2|
+|--------|--------|
+|Content1|Content2|
+|SQL|PowerBI|
+
+### How to bold text
+
+**Balance**
+
+*Simon*
+   
+
 
   
