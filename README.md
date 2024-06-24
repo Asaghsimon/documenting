@@ -15,7 +15,7 @@ The Primary Data used on this Analyis is the "saledata"
 - SQL - Data Analysis
 - PowerBI - For Report
   
-### Dta Cleaning and Preparations
+### Data Cleaning and Preparations
 
 In the Initial Data Preparation Phase, we perfom the following taxe:
 
